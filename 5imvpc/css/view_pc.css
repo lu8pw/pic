@@ -158,7 +158,12 @@ body{padding:0;margin:0;font-size:14px;color:#333;background:#f6f6f6;background-
 .col-ul-list li h4{padding:0;margin:0;float:left;width:150px;height:24px;line-height:24px;color:#d91212;overflow:hidden}
 .cover-stat .c-r{float:right;font-family:Arial;font-size:10px;border-left:1px solid #ddd;line-height:34px;height:35px;padding:0 10px}
 .cover-stat .c-c{float:right;font-family:Arial;font-size:10px;border-left:1px solid #ddd;line-height:34px;height:35px;padding:0 10px}
-.cover-stat .c-l{font-size:12px;line-height:34px;height:35px;margin-left:10px}
+.cover-stat .c-l{font-size:12px;line-height:34px;height:35px;margin-left:10px;
+  white-space:nowrap;/*强制单行显示*/
+  text-overflow:ellipsis;/*超出部分省略号表示*/
+  overflow:hidden;/*超出部分隐藏*/
+  width: 50px;/*设置显示的最大宽度*/
+  display:inline-block;}
 .my_titlex a{float:right;height:46px;line-height:46px;padding:0 15px;border-left:1px solid #f1f1f1;text-indent:0;color:#333;font-size:12px;background:#fefefe}
 .my_titlex span{float:right;height:46px;line-height:46px;color:#666;padding-right:10px;font-weight:400;font-size:14px}
 .col-ul-list li .qingxidu{position:absolute;top:3px;left:3px;background:#d91212;padding:2px 5px;color:#fff;font-size:12px;box-shadow:0 3px 5px rgba(0,0,0,.25)}
