@@ -1,0 +1,131 @@
+.b2b_div{float:left;padding:10px 15px 15px;width:1170px;height:auto}
+.gaozhi{float:left;margin-top:110px;margin-bottom:10px;margin-left:15px;padding:0 0 0 10px;width:1158px;height:45px;background:#ffc;color:#d91212;text-align:center;font-size:16px;line-height:45px}
+.bangtitle,.gaozhi{border:1px solid #dedede}
+.bangtitle{padding:5px 0;height:24px;border-bottom:none;background:#f3f3f3;text-indent:10px;line-height:24px}
+.pspan_history{position:relative;float:right;padding:0 25px;border-left:1px solid #333;background:url(../image/lishi-ico.png) no-repeat 15px 17px;text-indent:12px}
+.history{position:absolute;right:0;z-index:999;display:none;width:250px;height:auto;border:1px solid #333;background:#000}
+.caidan_hslist{margin:0;padding:10px 10px 5px;text-indent:0}
+.caidan_hslist li{overflow:hidden;margin-bottom:5px;height:30px;border-left:3px solid #000;background:#fefefe;list-style:none;line-height:30px}
+.caidan_hslist li a{float:left;overflow:hidden;padding-right:10px;width:110px;color:#000;text-decoration:none;text-overflow:ellipsis;white-space:nowrap}
+.caidan_hslist li a:hover{color:#d91212}
+.caidan_hslist li span{float:left;overflow:hidden;padding:0 5px;width:55px;background:#e1e1e1;color:#333;text-overflow:ellipsis;white-space:nowrap;font-size:12px}
+.caidan_hslist li em{float:left;margin-right:10px;padding:0 10px;width:10px;border-right:1px solid #ccc;background:#f9f9f9;color:#888;font-style:normal;font-size:12px}
+.caidan_title span.qkls{float:right;font-size:12px}
+.my_titlex{float:left;width:calc(100% - 2px);height:46px;border-top:3px solid #d91212;border-right:1px solid #dedede;border-left:1px solid #dedede;color:#333;color:#d91212;text-indent:10px;font-weight:700;font-size:14px;line-height:46px}
+.col-ul-list img{width:176px}
+.col-ul-list li:hover img{-webkit-filter:brightness(.5);filter:brightness(.5)}
+.col-ul-list li .qingxidu{top:0;left:0}
+.my_titlex a:hover{background:#f3f3f3;color:#d91212}
+.list_lul li.on a{color:#fff}
+.list_lbox{float:right;margin-bottom:10px;width:220px;height:auto;border-top:3px solid #000;background-color:#fff;box-shadow:0 0 3px rgba(0,0,0,.35);color:#333;color:#000;text-indent:10px;font-weight:700;font-size:14px}
+.list_ltitle{float:left;width:100%;height:45px;border-bottom:1px solid #ddd;color:#000;line-height:45px}
+.list_lul{float:left;margin:0;padding:10px 10px 0}
+.list_lul li{float:left;margin-right:5px;margin-bottom:10px;padding:4px 8px;height:19px;border:1px solid #dedede;list-style:none;text-indent:0}
+.list_lul li a{color:#000;text-decoration:none;text-indent:0;font-weight:400}
+.list_lul li:hover a{color:#d91212}
+.list_lul li.on{border:1px solid #d91212;background:#d91212;text-align:center}
+.box_right{float:left;width:1170px}
+.list_lul_hot li{overflow:hidden;margin-bottom:6px;padding:0;width:196px;height:27px;color:#aaa;text-overflow:ellipsis;white-space:nowrap;font-weight:400;line-height:27px}
+.list_lul_hot li span{padding-left:5px;color:#aaa;font-weight:400;font-size:12px}
+.list_lul_hot li em{float:left;margin-right:5px;width:25px;border-right:1px solid #ccc;color:#888;text-align:center;font-weight:400;font-style:normal;font-size:12px}
+.list_lul_hot li:hover em{color:#d91212}
+.list_lul_year li{width:46px;text-align:center}
+.list_lul_year li.year_last{width:185px}
+.list_lul_by li{width:79px;text-align:center}
+.list_lul_by li.by_last{margin-right:0}
+.list_lul_zong li{width:79px;text-align:center}
+.list_lul_lei li.li_lei_28,.list_lul_lei li.li_lei_29,.list_lul_lei li.li_lei_30,.list_lul_lei li.li_lei_31,.list_lul_lei li.li_lei_32,.list_lul_lei li.li_lei_33,.list_lul_lei li.li_lei_34,.list_lul_lei li.li_lei_35,.list_lul_lei li.li_lei_36,.list_lul_lei li.li_lei_37,.list_lul_lei li.li_lei_38,.list_lul_lei li.li_lei_39,.list_lul_lei li.li_lei_40,.list_lul_lei li.li_lei_41,.list_lul_lei li.li_lei_42,.list_lul_lei li.li_lei_43,.list_lul_lei li.li_lei_44,.list_lul_lei li.li_lei_45{width:46px;text-align:center}
+.list_lul_lei li.li_lei_46,.list_lul_lei li.li_lei_47,.list_lul_lei li.li_lei_48,.list_lul_lei li.li_lei_49,.list_lul_lei li.li_lei_50,.list_lul_lei li.li_lei_51,.list_lul_lei li.li_lei_52,.list_lul_lei li.li_lei_53{width:79px;text-align:center}
+.list_lul li.li_fist,.list_lul_lei li.li_lei_54{width:185px;text-align:center}
+.list_lul_key li{padding:0;height:31px;line-height:31px}
+.list_lul_key li.on{border:none}
+.close_ico{position:relative;float:right;margin-left:10px;padding:0 10px 0 5px;height:30px;border-left:6px solid #fff;background:url(../image/close.png) 8px no-repeat #000;color:#fff;text-align:left;text-indent:18px;font-size:12px;cursor:pointer}
+.list_lul_key li.on a.key_link{float:left;overflow:hidden;padding:0 8px;width:142px;height:31px}
+.list_lul li.no_now{border:1px solid #ddd;color:#999;text-decoration:line-through;font-weight:400;cursor:no-drop}
+.list_lul li.no_now:hover{background:#fff}
+#search-input2{margin:10px 5px 10px 10px;padding:4px 13px;height:19px;list-style:none}
+#search-input2,.my_titlexpage{float:left;border:1px solid #dedede;text-indent:0}
+.my_titlexpage{margin-top:10px;margin-bottom:10px;width:calc(100% - 2px);height:42px;background-color:#fff;color:#333;color:#d91212;text-align:center;font-size:14px;line-height:42px}
+.my_titlexpage span{float:left;padding:0 25px;border-right:1px solid #ddd;color:#666}
+.my_titlexpage span a{padding:0 15px;color:#d91212;text-decoration:none}
+.my_titlexpage span:hover a{color:#d91212}
+.my_titlexpage span.page_last{float:right;border:none;color:#999;font-size:12px}
+.no_mv{z-index:5555;float:left;margin:0 0 10px;padding:30px;width:calc(100% - 62px);border:1px solid #dedede;background:#fff;color:#666;text-align:center;font-size:20px;line-height:100px}
+.no_history{color:#999;text-align:center}
+.col-list h4 strong{color:#000}
+.type-diqu-box{overflow:hidden;width:1168px;height:40px;border:1px solid #dedede;border-bottom:none;background:#fff}
+.diqu-title{float:left;width:85px;height:40px;border-right:1px solid #d9d9d9;text-align:center;font-weight:700;font-size:14px;line-height:40px}
+.diqu-title a{color:#333;text-decoration:none}
+.diqu-title a:hover{color:#d91212}
+.diqu-nianfen{float:left;margin:0;padding:5px;width:auto}
+.diqu-nianfen li{float:left;margin-right:5px;margin-bottom:0;width:75px;height:28px;border:1px solid #dedede;background:#fff;list-style:none;text-align:center;line-height:28px;transition:all 1s ease 0s}
+.diqu-nianfen li:hover{border:1px solid #d91212;background:#d91212}
+.diqu-nianfen li a{color:#333;text-decoration:none}
+.diqu-nianfen li:hover a{color:#fff}
+.nianfen-box{height:75px}
+.nianfen-box .diqu-title{height:75px;line-height:75px}
+.nianfen-box ul{padding-bottom:0;width:1072px}
+.nianfen-box ul li{margin-bottom:5px}
+.fenlei-box{height:210px}
+.fenlei-box .diqu-title{height:210px;line-height:210px}
+.fenlei-box ul{padding-bottom:0;width:1072px}
+.fenlei-box ul li{margin-bottom:5px}
+.diqu-nianfen li.tou{background:#dedede}
+.diqu-nianfen li.tou:hover{border:1px solid #000;background:#000}
+.diqu-nianfen li.tou:hover a{color:#fff}
+.diqu-nianfen .on{border:1px solid #d91212;background:#d91212;color:#fff}
+.diqu-nianfen .on a{color:#fff}
+.diqu-nianfen li.no_now{border:1px solid #ddd;color:#ccc;font-weight:400;cursor:no-drop}
+.diqu-nianfen li.no_now:hover{background:#fff}
+.diqu-nianfen li.rows{width:100%;height:1px;border:none;border-bottom:1px solid #dedede}
+.diqu-nianfen li.sekword{width:auto;height:30px;border:none;text-indent:10px;line-height:30px}
+.dianzans{position:absolute;top:228px;left:3px;padding:2px 5px;background:#000;background:rgba(0,0,0,.5);box-shadow:0 -3px 5px rgba(0,0,0,.25);color:#fff;font-size:12px}
+.caidan_hslist li.clear_history{color:#b00000;text-align:center;cursor:pointer}
+.col-ul-list{z-index:5555;margin:-1px 0 0;padding:20px 0 0 20px;width:1148px;background:#fff}
+.col-ul-list,.col-ul-list li{float:left;border:1px solid #dedede}
+.col-ul-list li{position:relative;overflow:hidden;margin-right:13px;margin-bottom:14px;width:176px;border-radius:0;background-color:#fff;list-style:none;transition:all 1s ease 0s}
+.col-ul-list li:hover{background-color:#fafafa}
+.cover-info{overflow:hidden;padding:6px 15px 11px;border-top:1px solid #dedede}
+.cover-info small{float:left;overflow:hidden;padding-top:5px;width:150px;height:32px;color:#838383;line-height:16px}
+.cover-fields{bottom:34px;left:10px;overflow:hidden;padding-right:15px;padding-left:15px;height:35px;max-width:210px;text-overflow:ellipsis;white-space:nowrap;font-size:12px;line-height:35px}
+.cover-stat{position:relative;float:left;width:176px;border-top:1px solid #e7e7e7;color:#8b8b8c}
+.col-ul-list img{float:left;margin:3px;width:170px;height:245px;background:url(../image/tubg.png) 0 0 no-repeat #f1f1f1;transition:all 1s ease 0s}
+.col-ul-list li:hover img{-moz-transform:scale(1.05)}
+.col-ul-list li h4{float:left;overflow:hidden;margin:0;padding:0;width:150px;height:24px;color:#d91212;line-height:24px}
+.cover-stat .c-c,.cover-stat .c-r{float:right;padding:0 10px;height:35px;border-left:1px solid #ddd;font-size:10px;font-family:Arial;line-height:34px}
+.cover-stat .c-l{margin-left:10px;height:35px;font-size:12px;line-height:34px}
+.my_titlex a{padding:0 15px;border-left:1px solid #f1f1f1;background:#fefefe;color:#333;text-indent:0;font-size:12px}
+.my_titlex a,.my_titlex span{float:right;height:46px;line-height:46px}
+.my_titlex span{padding-right:10px;color:#666;font-weight:400;font-size:14px}
+.col-ul-list li .qingxidu{position:absolute;top:3px;left:3px;padding:2px 5px;background:#d91212;box-shadow:0 3px 5px rgba(0,0,0,.25);color:#fff;font-size:12px}
+.header_fixed{position:fixed;top:0;z-index:9999;float:left;padding-bottom:10px}
+.xlogo{float:left;margin-left:7px;height:50px}
+.pcptitle_ico{float:left;width:46px;height:46px;border-right:1px solid #dedede}
+.pc_ico_1{background:url(../image/pc-pjs-ico.png) no-repeat 50% #fff;background-size:24px}
+.pc_ico_2{background:url(../image/pc-plb-ico.png) no-repeat 50% #fff;background-size:20px}
+.pc_ico_3{background:url(../image/pc-pjq-ico.png) no-repeat 50% #fff;background-size:20px}
+.pc_ico_4{background:url(../image/pc-pyx-ico.png) no-repeat 50% #fff;background-size:20px}
+.pc_ico_5{background:url(../image/pc-ptj-ico.png) no-repeat 50% #fff;background-size:22px}
+.last_sx{margin-bottom:10px;border-bottom:1px solid #dedede}
+.my_title_box{margin:0 auto;width:1200px;height:46px;border-bottom:1px solid #d4d3d3;background:#fff;box-shadow:0 3px 3px 0 rgba(0,0,0,.1)}
+.list_search_tishi{float:left;margin-top:5px;padding:0 15px;width:auto;height:28px;border:1px solid #f90;background:#ffc;line-height:28px}
+.close_ico:before{position:absolute;top:11px;left:-3px;padding:3px;border:inherit;border-top:none;border-left:none;background:#000;content:"";transform:rotate(45deg)}
+.desktop{position:fixed;top:calc(50vh - 100px);left:calc(50vw + 610px);width:50px;height:101px;box-shadow:0 0 10px rgba(0,0,0,.2);text-align:center}
+.desktop,.desktop a.dk{background:#fff;transition:all 1s ease 0s}
+.desktop a.dk{float:left;padding:5px;height:40px;border-bottom:1px solid #dedede;color:#d91212;text-decoration:none}
+.desktop a.dk:hover{background:#d91212;color:#fff}
+.desktop a.mvdebug{float:left;padding:5px;height:40px;background:#fff;color:#d91212;text-decoration:none;transition:all 1s ease 0s}
+.desktop a.mvdebug:hover{background:#000;color:#fff}
+.nav_bar span.t_ico1{background:url(../image/tico-1.png) no-repeat 15px 17px;text-indent:12px}
+.nav_bar span.t_ico2{background:url(../image/tico-2.png) no-repeat 15px 17px;text-indent:12px}
+.nav_bar span.t_ico3{background:url(../image/tico-3.png) no-repeat 15px 17px;text-indent:12px}
+.nav_bar span.t_ico4{background:url(../image/tico-4.png) no-repeat 15px 17px;text-indent:12px}
+.nav_bar span.t_ico5{background:url(../image/tico-5.png) no-repeat 15px 17px;text-indent:12px}
+.my_title_box{position:relative;background:0 0}
+.my_title_box:after{position:absolute;top:0;right:0;bottom:0;left:0;z-index:-1;background:#fff;content:"";opacity:.9}
+.my_index_rbox{float:left;margin-bottom:10px;border:1px solid #dedede;border-top:none}
+.my_index_rbox .list_ltitle{border-top:1px solid #ddd;background:url(../image/index_bang_ico.png) no-repeat 10px #fff;color:#666;text-indent:40px}
+.my_index_rbox .list_ltitle a{float:right;margin-right:15px;border-left:1px solid #dedede;color:#666;text-decoration:none;text-indent:15px}
+.my_index_rbox .list_lul_hot li{margin-right:10px;width:220px}
+.my_index_rbox .list_lul_hot li:nth-child(5n){margin-right:0}
+.my_index_rbox .list_lul{padding-right:0;background:#fff}
