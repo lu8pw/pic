@@ -162,7 +162,7 @@ body{padding:0;margin:0;font-size:14px;color:#333;background:#f6f6f6;background-
   white-space:nowrap;/*强制单行显示*/
   text-overflow:ellipsis;/*超出部分省略号表示*/
   overflow:hidden;/*超出部分隐藏*/
-  width: 50px;/*设置显示的最大宽度*/
+  width: 40px;/*设置显示的最大宽度*/
   display:inline-block;}
 .my_titlex a{float:right;height:46px;line-height:46px;padding:0 15px;border-left:1px solid #f1f1f1;text-indent:0;color:#333;font-size:12px;background:#fefefe}
 .my_titlex span{float:right;height:46px;line-height:46px;color:#666;padding-right:10px;font-weight:400;font-size:14px}
