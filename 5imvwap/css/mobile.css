@@ -22,7 +22,7 @@ body{margin:0;padding:0;background:#f6f6f6;color:#333;font-size:14px;font-family
 .container .input .hot-list>a:hover{background-color:#f3f3f3}
 .container .input .hot-list>a>div{float:left}
 .container .input .hot-list>a>div.number{width:40px;text-align:center}
-.container .search{width:110px;height:46px;background-color:#08f;background-image:url(../image/baidu.png);background-position:50%;background-repeat:no-repeat;-webkit-box-shadow:0 1px 3px rgba(0,0,0,.2);-moz-box-shadow:0 1px 3px rgba(0,0,0,.2);box-shadow:0 1px 3px rgba(0,0,0,.2);cursor:pointer}
+.container .search{width:110px;height:46px;background-color:#08f;background-image:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/baidu.png);background-position:50%;background-repeat:no-repeat;-webkit-box-shadow:0 1px 3px rgba(0,0,0,.2);-moz-box-shadow:0 1px 3px rgba(0,0,0,.2);box-shadow:0 1px 3px rgba(0,0,0,.2);cursor:pointer}
 .b2b_container{width:100%;height:auto;background:#fff;-moz-box-shadow:0 1px 3px rgba(0,0,0,.2)}
 .b2b_container,.footer{float:left;margin:0 auto}
 .footer{overflow:hidden;padding:10px 3%;width:94%;border-top:0.5px solid #e7e7e7;background:#fafafa;color:#999;text-align:center;font-size:12px;line-height:20px}
@@ -38,10 +38,10 @@ body{margin:0;padding:0;background:#f6f6f6;color:#333;font-size:14px;font-family
 .b2b_list li a{display:inline;padding-top:3px;color:#d91212;text-decoration:none;line-height:30px}
 .b2b_list li:hover{background:#f3f3f3}
 .b2b_list li:hover a{color:#d91212;text-decoration:underline}
-.b2b_list li .limg{float:left;margin:8px 5px;width:60px;height:80px;background:url(../image/tubg_m.png) 0 0 no-repeat #f1f1f1}
+.b2b_list li .limg{float:left;margin:8px 5px;width:60px;height:80px;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/tubg_m.png) 0 0 no-repeat #f1f1f1}
 .nav_bar{position:fixed;top:0;z-index:99999;overflow:hidden;width:100%;height:46px;border-bottom:0.5px solid #333;background:#000;box-shadow:0 0 10px rgba(0,0,0,.5);color:#fff;text-indent:10px;text-indent:-10000px;font-weight:700;font-size:1em;font-size:16px;line-height:46px}
 .weblogo{float:left;width:185px;height:46px;background:url(https://cdn.jsdelivr.net/gh/lu8pw/CDN/dy/xiyilogo.png) no-repeat 0;background-size:185px}
-.clear{position:absolute;top:11px;right:63px;display:none;width:24px;height:24px;border-radius:24px;background-image:url(../image/clear.png);background-position:50%;background-repeat:no-repeat;-moz-box-shadow:0 1px 3px rgba(0,0,0,.2);color:#bbb;text-align:center;font-size:12px;line-height:24px;cursor:pointer}
+.clear{position:absolute;top:11px;right:63px;display:none;width:24px;height:24px;border-radius:24px;background-image:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/clear.png);background-position:50%;background-repeat:no-repeat;-moz-box-shadow:0 1px 3px rgba(0,0,0,.2);color:#bbb;text-align:center;font-size:12px;line-height:24px;cursor:pointer}
 .cboth{clear:both}
 .clear:hover{background-color:#f1f1f1}
 .nav-bg{z-index:5;margin-bottom:20px;height:50px;background-color:#fff;box-shadow:0 1px 3px rgba(0,0,0,.07);color:#c8c8c8;text-align:center;font-size:15px;line-height:50px}
@@ -75,10 +75,10 @@ body{margin:0;padding:0;background:#f6f6f6;color:#333;font-size:14px;font-family
 .search .ci,.search .so{float:left;margin:0;padding:0;height:41px;line-height:41px}
 .search .so{width:calc(30% - 1px);border:none;background:#d91212;color:#fff}
 .winfo{float:left;padding:10px;border-top:0.5px solid #e7e7e7;background:#f9f9f9;color:#999;text-align:left;font-size:14px;line-height:22px}
-.nav_bar .searlogo{position:absolute;top:8px;right:2px;z-index:9999;width:140px;height:30px;background:url(../image/caidan.png) no-repeat 100% #000;background-size:100%}
-.nav_bar .searlogo_close{background:url(../image/caidan2.png) no-repeat 100% #000;background-size:100%}
+.nav_bar .searlogo{position:absolute;top:8px;right:2px;z-index:9999;width:140px;height:30px;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/caidan.png) no-repeat 100% #000;background-size:100%}
+.nav_bar .searlogo_close{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/caidan2.png) no-repeat 100% #000;background-size:100%}
 .layui-layer-setwin{position:absolute;top:15px;right:15px;font-size:0;line-height:normal}
-.layui-layer-ico{background:url(../image/guan.png) no-repeat}
+.layui-layer-ico{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/guan.png) no-repeat}
 .layui-layer-setwin a{position:relative;float:left;margin-left:10px;width:16px;height:16px;font-size:12px}
 .layui-layer-setwin .layui-layer-close1{cursor:pointer}
 .b2b_list li span{display:-webkit-box;height:20px;font-size:14px;line-height:20px}
@@ -117,14 +117,14 @@ body{margin:0;padding:0;background:#f6f6f6;color:#333;font-size:14px;font-family
 .caidan_hslist li:nth-child(5){border-left:3px solid #b0b0b0}
 .caidan_hslist li{margin-bottom:5px}
 .nav_bar .searlogo{top:0;right:0;width:127px;height:46px;border-left:0.5px solid #333;background:0 0}
-.sl_ss{float:left;width:42px;height:50px;border-right:0.5px solid #333;background:url(../image/ss.png) no-repeat center 8px;background-size:18px;color:#fff;text-align:center;text-indent:0;font-weight:400;font-size:12px;line-height:68px}
-.sl_ls{background:url(../image/ls.png) no-repeat center 8px;background-size:16px}
+.sl_ss{float:left;width:42px;height:50px;border-right:0.5px solid #333;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/ss.png) no-repeat center 8px;background-size:18px;color:#fff;text-align:center;text-indent:0;font-weight:400;font-size:12px;line-height:68px}
+.sl_ls{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/ls.png) no-repeat center 8px;background-size:16px}
 .sl_fl,.sl_ls{float:left;width:42px;height:50px;color:#fff;text-align:center;text-indent:0;font-weight:400;font-size:12px;line-height:68px}
-.sl_fl{border-right:0.5px solid #333;background:url(../image/fl.png) no-repeat center 8px;background-size:16px}
+.sl_fl{border-right:0.5px solid #333;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/fl.png) no-repeat center 8px;background-size:16px}
 .nav_bar .searlogo_close .sl_fl,.nav_bar .searlogo_close .sl_ls,.nav_bar .searlogo_close .sl_ss{color:#ffce2d}
 .sanjiao:after{position:absolute;bottom:-8px;left:calc(50% - 5px);padding:5px;border:0.5px solid #e1e1e1;border-top:none;border-left:none;background:#fff;content:"";transform:rotate(45deg)}
 .yinyingbox{box-shadow:0 30px 30px rgba(0,0,0,.8)}
-.sl_guabi{position:absolute;top:11px;left:36px;width:16px;height:16px;border:0.5px solid #333;border-radius:15px;background:#ffce2d;background:url(../image/srgb.png) no-repeat 50% #222;background-size:12px}
+.sl_guabi{position:absolute;top:11px;left:36px;width:16px;height:16px;border:0.5px solid #333;border-radius:15px;background:#ffce2d;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/srgb.png) no-repeat 50% #222;background-size:12px}
 .caidan_title{overflow:hidden}
 @-webkit-keyframes move_right{0%{-webkit-transform:translate(170vw);transform:translate(170vw)}
 to{-webkit-transform:translate(70vw);transform:translate(70vw)}
@@ -151,10 +151,10 @@ input[type=button],input[type=reset],input[type=submit],input[type=text],textare
 .footer_adp{padding-bottom:125px!important}
 .caidan_title_top{border-top:none}
 .list_about hr{border:none;border-bottom:0.5px solid #cccccc}
-.player_adcontent{overflow:hidden;width:100%;height:auto;min-height:60px;background:url(../image/ad_loading.png) no-repeat 50% #f1f1f1;background-size:100px}
+.player_adcontent{overflow:hidden;width:100%;height:auto;min-height:60px;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/ad_loading.png) no-repeat 50% #f1f1f1;background-size:100px}
 .my_table .list_info_hidden{overflow:hidden;padding:0 5px;height:34px;line-height:34px}
 .text_shadow{text-shadow:0 0 0 #eee,0 0 0 #000,0 0 0 #000}
 .text_noshadow,.text_shadow a{text-shadow:none}
-.sl_ly{position:absolute;top:0;right:127px;width:42px;height:50px;border-left:0.5px solid #333;background:url(../image/ly.png) no-repeat center 8px;background-size:18px;color:#fff;text-align:center;text-indent:0;font-weight:400;font-size:12px;line-height:68px}
-.gbook_iframe{background:url(../image/loading.bg.gif) no-repeat 50% #fff}
+.sl_ly{position:absolute;top:0;right:127px;width:42px;height:50px;border-left:0.5px solid #333;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/ly.png) no-repeat center 8px;background-size:18px;color:#fff;text-align:center;text-indent:0;font-weight:400;font-size:12px;line-height:68px}
+.gbook_iframe{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/loading.bg.gif) no-repeat 50% #fff}
 input{outline:0!important}

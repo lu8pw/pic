@@ -2,7 +2,7 @@
 .gaozhi{float:left;margin-top:110px;margin-bottom:10px;margin-left:15px;padding:0 0 0 10px;width:1158px;height:45px;background:#ffc;color:#d91212;text-align:center;font-size:16px;line-height:45px}
 .bangtitle,.gaozhi{border:1px solid #dedede}
 .bangtitle{padding:5px 0;height:24px;border-bottom:none;background:#f3f3f3;text-indent:10px;line-height:24px}
-.pspan_history{position:relative;float:right;padding:0 25px;border-left:1px solid #333;background:url(../image/lishi-ico.png) no-repeat 15px 17px;text-indent:12px}
+.pspan_history{position:relative;float:right;padding:0 25px;border-left:1px solid #333;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/lishi-ico.png) no-repeat 15px 17px;text-indent:12px}
 .history{position:absolute;right:0;z-index:999;display:none;width:250px;height:auto;border:1px solid #333;background:#000}
 .caidan_hslist{margin:0;padding:10px 10px 5px;text-indent:0}
 .caidan_hslist li{overflow:hidden;margin-bottom:5px;height:30px;border-left:3px solid #000;background:#fefefe;list-style:none;line-height:30px}
@@ -39,7 +39,7 @@
 .list_lul li.li_fist,.list_lul_lei li.li_lei_54{width:185px;text-align:center}
 .list_lul_key li{padding:0;height:31px;line-height:31px}
 .list_lul_key li.on{border:none}
-.close_ico{position:relative;float:right;margin-left:10px;padding:0 10px 0 5px;height:30px;border-left:6px solid #fff;background:url(../image/close.png) 8px no-repeat #000;color:#fff;text-align:left;text-indent:18px;font-size:12px;cursor:pointer}
+.close_ico{position:relative;float:right;margin-left:10px;padding:0 10px 0 5px;height:30px;border-left:6px solid #fff;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/close.png) 8px no-repeat #000;color:#fff;text-align:left;text-indent:18px;font-size:12px;cursor:pointer}
 .list_lul_key li.on a.key_link{float:left;overflow:hidden;padding:0 8px;width:142px;height:31px}
 .list_lul li.no_now{border:1px solid #ddd;color:#999;text-decoration:line-through;font-weight:400;cursor:no-drop}
 .list_lul li.no_now:hover{background:#fff}
@@ -89,7 +89,7 @@
 .cover-info small{float:left;overflow:hidden;padding-top:5px;width:150px;height:32px;color:#838383;line-height:16px}
 .cover-fields{bottom:34px;left:10px;overflow:hidden;padding-right:15px;padding-left:15px;height:35px;max-width:210px;text-overflow:ellipsis;white-space:nowrap;font-size:12px;line-height:35px}
 .cover-stat{position:relative;float:left;width:176px;border-top:1px solid #e7e7e7;color:#8b8b8c}
-.col-ul-list img{float:left;margin:3px;width:170px;height:245px;background:url(../image/tubg.png) 0 0 no-repeat #f1f1f1;transition:all 1s ease 0s}
+.col-ul-list img{float:left;margin:3px;width:170px;height:245px;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/tubg.png) 0 0 no-repeat #f1f1f1;transition:all 1s ease 0s}
 .col-ul-list li:hover img{-moz-transform:scale(1.05)}
 .col-ul-list li h4{float:left;overflow:hidden;margin:0;padding:0;width:150px;height:24px;color:#d91212;line-height:24px}
 .cover-stat .c-c,.cover-stat .c-r{float:right;padding:0 10px;height:35px;border-left:1px solid #ddd;font-size:10px;font-family:Arial;line-height:34px}
@@ -101,11 +101,11 @@
 .header_fixed{position:fixed;top:0;z-index:9999;float:left;padding-bottom:10px}
 .xlogo{float:left;margin-left:7px;height:50px}
 .pcptitle_ico{float:left;width:46px;height:46px;border-right:1px solid #dedede}
-.pc_ico_1{background:url(../image/pc-pjs-ico.png) no-repeat 50% #fff;background-size:24px}
-.pc_ico_2{background:url(../image/pc-plb-ico.png) no-repeat 50% #fff;background-size:20px}
-.pc_ico_3{background:url(../image/pc-pjq-ico.png) no-repeat 50% #fff;background-size:20px}
-.pc_ico_4{background:url(../image/pc-pyx-ico.png) no-repeat 50% #fff;background-size:20px}
-.pc_ico_5{background:url(../image/pc-ptj-ico.png) no-repeat 50% #fff;background-size:22px}
+.pc_ico_1{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/pc-pjs-ico.png) no-repeat 50% #fff;background-size:24px}
+.pc_ico_2{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/pc-plb-ico.png) no-repeat 50% #fff;background-size:20px}
+.pc_ico_3{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/pc-pjq-ico.png) no-repeat 50% #fff;background-size:20px}
+.pc_ico_4{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/pc-pyx-ico.png) no-repeat 50% #fff;background-size:20px}
+.pc_ico_5{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/pc-ptj-ico.png) no-repeat 50% #fff;background-size:22px}
 .last_sx{margin-bottom:10px;border-bottom:1px solid #dedede}
 .my_title_box{margin:0 auto;width:1200px;height:46px;border-bottom:1px solid #d4d3d3;background:#fff;box-shadow:0 3px 3px 0 rgba(0,0,0,.1)}
 .list_search_tishi{float:left;margin-top:5px;padding:0 15px;width:auto;height:28px;border:1px solid #f90;background:#ffc;line-height:28px}
@@ -116,15 +116,15 @@
 .desktop a.dk:hover{background:#d91212;color:#fff}
 .desktop a.mvdebug{float:left;padding:5px;height:40px;background:#fff;color:#d91212;text-decoration:none;transition:all 1s ease 0s}
 .desktop a.mvdebug:hover{background:#000;color:#fff}
-.nav_bar span.t_ico1{background:url(../image/tico-1.png) no-repeat 15px 17px;text-indent:12px}
-.nav_bar span.t_ico2{background:url(../image/tico-2.png) no-repeat 15px 17px;text-indent:12px}
-.nav_bar span.t_ico3{background:url(../image/tico-3.png) no-repeat 15px 17px;text-indent:12px}
-.nav_bar span.t_ico4{background:url(../image/tico-4.png) no-repeat 15px 17px;text-indent:12px}
-.nav_bar span.t_ico5{background:url(../image/tico-5.png) no-repeat 15px 17px;text-indent:12px}
+.nav_bar span.t_ico1{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/tico-1.png) no-repeat 15px 17px;text-indent:12px}
+.nav_bar span.t_ico2{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/tico-2.png) no-repeat 15px 17px;text-indent:12px}
+.nav_bar span.t_ico3{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/tico-3.png) no-repeat 15px 17px;text-indent:12px}
+.nav_bar span.t_ico4{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/tico-4.png) no-repeat 15px 17px;text-indent:12px}
+.nav_bar span.t_ico5{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/tico-5.png) no-repeat 15px 17px;text-indent:12px}
 .my_title_box{position:relative;background:0 0}
 .my_title_box:after{position:absolute;top:0;right:0;bottom:0;left:0;z-index:-1;background:#fff;content:"";opacity:.9}
 .my_index_rbox{float:left;margin-bottom:10px;border:1px solid #dedede;border-top:none}
-.my_index_rbox .list_ltitle{border-top:1px solid #ddd;background:url(../image/index_bang_ico.png) no-repeat 10px #fff;color:#666;text-indent:40px}
+.my_index_rbox .list_ltitle{border-top:1px solid #ddd;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvpc/image/index_bang_ico.png) no-repeat 10px #fff;color:#666;text-indent:40px}
 .my_index_rbox .list_ltitle a{float:right;margin-right:15px;border-left:1px solid #dedede;color:#666;text-decoration:none;text-indent:15px}
 .my_index_rbox .list_lul_hot li{margin-right:10px;width:220px}
 .my_index_rbox .list_lul_hot li:nth-child(5n){margin-right:0}

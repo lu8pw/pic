@@ -5,7 +5,7 @@
 .my_ltlist li.on a{color:#fff}
 .b2b_list li a strong{color:#1a1aa6;font-weight:400}
 .btom{border-bottom:0.5px solid #cccccc}
-.my_ltlist li .ssc_close{float:right;margin-left:10px;padding:0 0 0 5px;width:24px;height:26px;background:#000;background:url(../image/mclose.png) no-repeat 50%;background-size:16px;color:#fff;text-align:center;text-indent:0;font-size:12px;line-height:26px;cursor:pointer}
+.my_ltlist li .ssc_close{float:right;margin-left:10px;padding:0 0 0 5px;width:24px;height:26px;background:#000;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/mclose.png) no-repeat 50%;background-size:16px;color:#fff;text-align:center;text-indent:0;font-size:12px;line-height:26px;cursor:pointer}
 .my_ltlist li.ssc_li_on{padding:0 0 0 10px;width:auto;height:26px;line-height:26px}
 .my_ltlist li .ssc_close a{color:#999}
 .page{float:left;margin:10px 0 0;padding:0;width:100%}
@@ -23,17 +23,17 @@
 .my_mtlist{background:#f9f9f9}
 .dianzans{position:absolute;bottom:8px;left:5px;padding:0 5px;background:#000;box-shadow:0 -3px 5px rgba(0,0,0,.25);color:#fff;text-align:center;text-indent:0;font-size:12px}
 .mrside_ico{position:absolute;top:0;left:0;width:40px;height:43px;border-right:0.5px solid #cccccc;border-radius:0;background:#fff}
-.m_rsico_1{background:url(../image/m-list-ico.png) no-repeat 8px;background-size:24px}
-.m_rsico_2{background:url(../image/sceng_bang_ico.png) no-repeat 8px;background-size:24px}
-.m_rsico_3{background:url(../image/sceng_his_ico.png) no-repeat 10px;background-size:20px}
+.m_rsico_1{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-list-ico.png) no-repeat 8px;background-size:24px}
+.m_rsico_2{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/sceng_bang_ico.png) no-repeat 8px;background-size:24px}
+.m_rsico_3{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/sceng_his_ico.png) no-repeat 10px;background-size:20px}
 .caidan_hslist li.clear_history{border:none;background:#e1e1e1;color:#999;text-align:center}
 .no_history{overflow:hidden;margin:10px;padding:0;height:30px;border:none;background:#e1e1e1;color:#999;text-align:center;line-height:30px}
 .caidan_title{position:relative;padding:0 10px 0 0;height:43px;color:#000;text-indent:50px;line-height:43px}
 .caidan_title span.zgdy{text-indent:0}
-.ifbg_img_1{background:url(../image/mbg_1.png) #000}
-.ifbg_img_2{background:url(../image/mbg_2.png) #000}
-.ifbg_img_3{background:url(../image/mbg_3.png) #000}
-.ifbg_img_4{background:url(../image/mbg_4.png) #000}
+.ifbg_img_1{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/mbg_1.png) #000}
+.ifbg_img_2{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/mbg_2.png) #000}
+.ifbg_img_3{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/mbg_3.png) #000}
+.ifbg_img_4{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/mbg_4.png) #000}
 .p_title{font-size:14px}
 .p_title span{display:block;box-sizing:border-box;margin:0;padding:5px 0;width:100%;height:46px;background:#fafafa;color:#444;text-align:center;font-weight:700;font-size:1.2em;line-height:36px}
 .p_title font{font-size:1em}
@@ -60,10 +60,10 @@
 .list_info h2{display:contents;font-weight:400;font-size:14px}
 .my_title em{float:right;margin-right:10px;color:#999;font-style:normal;font-size:12px;line-height:46px}
 .mtitle_ico{float:left;width:46px;height:46px}
-.m_ico_5{background:url(../image/m-zx-ico.png) no-repeat 50% #fff;background-size:30px}
-.m_ico_list{background:url(../image/m-list-ico.png) no-repeat 50% #fff;background-size:30px}
-.m_ico_about{background:url(../image/fankui_ico.png) no-repeat 50% #fff;background-size:30px}
-.m_ico_jian{background:url(../image/mb-ipaihang-ico.png) no-repeat 50% #fff;background-size:30px}
+.m_ico_5{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-zx-ico.png) no-repeat 50% #fff;background-size:30px}
+.m_ico_list{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-list-ico.png) no-repeat 50% #fff;background-size:30px}
+.m_ico_about{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/fankui_ico.png) no-repeat 50% #fff;background-size:30px}
+.m_ico_jian{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/mb-ipaihang-ico.png) no-repeat 50% #fff;background-size:30px}
 .playerlist li.last_one{width:calc(100% - 1px)!important}
 .playerlist li:nth-child(3n){margin-right:0;min-width:calc(34% - 5px)}
 .playerlist li{min-width:calc(33% - 4px)}
@@ -72,11 +72,11 @@
 .mobile_tul{margin:0;padding:0}
 .mobile_tul li{float:left;width:20%;height:60px;list-style:none}
 .mobile_tul li .mtui_dico{float:left;width:100%;height:60px;text-align:center;line-height:100px}
-.mobile_tul li .mtui_dico1{background:url(../image/m-dy-ico.png) no-repeat center 5px;background-size:32px}
-.mobile_tul li .mtui_dico2{background:url(../image/m-dsj-ico.png) no-repeat center 5px;background-size:32px}
-.mobile_tul li .mtui_dico3{background:url(../image/m-zy-ico.png) no-repeat center 5px;background-size:32px}
-.mobile_tul li .mtui_dico4{background:url(../image/m-dm-ico.png) no-repeat center 5px;background-size:32px}
-.mobile_tul li .mtui_dico5{background:url(../image/m-jlp-ico.png) no-repeat center 5px;background-size:32px}
+.mobile_tul li .mtui_dico1{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-dy-ico.png) no-repeat center 5px;background-size:32px}
+.mobile_tul li .mtui_dico2{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-dsj-ico.png) no-repeat center 5px;background-size:32px}
+.mobile_tul li .mtui_dico3{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-zy-ico.png) no-repeat center 5px;background-size:32px}
+.mobile_tul li .mtui_dico4{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-dm-ico.png) no-repeat center 5px;background-size:32px}
+.mobile_tul li .mtui_dico5{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-jlp-ico.png) no-repeat center 5px;background-size:32px}
 .mobile_tul li .mtui_dico a{color:#000;text-decoration:none;font-size:12px}
 .bg_ground_2{width:calc(100% - 1px);border:0.5px solid #cccccc;border-bottom:none;border-radius:0;text-align:center}
 .mibang{position:relative;z-index:1;margin-top:7px;padding:0 0 0 0px;height:45px;border:0.5px solid #cccccc;border-top:3px solid #d91212;border-bottom:none;background:#fff;text-indent:55px;line-height:45px}
@@ -94,13 +94,13 @@
 .plbox{float:left;width:calc(100% - 1px)}
 .b2b_list{margin:2%;width:96%}
 .lijibofang{float:left;width:100%;height:40px;background:#ff5f00;color:#fff;text-align:center;text-decoration:none;font-size:16px;line-height:40px}
-.my_title a span{float:right;border-left:0.5px solid #cccccc;background:url(../image/more.png) no-repeat 35px 14px;background-size:16px;color:#999;text-align:left;text-indent:12px;font-size:12px;line-height:46px;WIDTH:60px}
+.my_title a span{float:right;border-left:0.5px solid #cccccc;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/more.png) no-repeat 35px 14px;background-size:16px;color:#999;text-align:left;text-indent:12px;font-size:12px;line-height:46px;WIDTH:60px}
 .bg_ground_2 h1{margin:0;color:#d91212;font-weight:700;font-size:18px;line-height:46px}
 .mtitle_ico{position:absolute;top:0;left:0;width:43px;height:44px;border-right:0.5px solid #cccccc;background:#fff}
-.m_ico_1{background:url(../image/m-dy-ico.png) no-repeat 50% #fff;background-size:24px}
-.m_ico_2{background:url(../image/m-dsj-ico.png) no-repeat 50% #fff;background-size:24px}
-.m_ico_3{background:url(../image/m-zy-ico.png) no-repeat 50% #fff;background-size:24px}
-.m_ico_4{background:url(../image/m-dm-ico.png) no-repeat 50% #fff;background-size:24px}
+.m_ico_1{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-dy-ico.png) no-repeat 50% #fff;background-size:24px}
+.m_ico_2{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-dsj-ico.png) no-repeat 50% #fff;background-size:24px}
+.m_ico_3{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-zy-ico.png) no-repeat 50% #fff;background-size:24px}
+.m_ico_4{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/m-dm-ico.png) no-repeat 50% #fff;background-size:24px}
 .mline_count_1 .bangjs{width:100%;border-left:none}
 .mline_count_2 .bangjs:first-child{width:50%;border-left:none}
 .mline_count_2 .bangjs:nth-child(2){width:calc(50% - 0.5px)}
@@ -110,17 +110,17 @@
 .my_title_vl{position:relative;float:left;width:100%;height:44px;border-bottom:0.5px solid #cccccc;background:#fff;color:#333}
 .my_title_vl span{float:left;overflow:hidden;width:100%;height:46px;text-align:center;line-height:46px}
 .bg_ground_3 span{padding-left:52px}
-.m_ico_js{background:url(../image/fankui_ico.png) no-repeat 50%;background-size:24px}
-.m_ico_ab{background:url(../image/mb-ipaihang-ico.png) no-repeat 50%;background-size:24px}
+.m_ico_js{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/fankui_ico.png) no-repeat 50%;background-size:24px}
+.m_ico_ab{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/mb-ipaihang-ico.png) no-repeat 50%;background-size:24px}
 .bg_ground_3 a span{padding-left:0}
 .bg_ground_4{width:100%;border-top:0 solid #ddd;background:#fafafa}
 .bg_ground_4 span{padding-left:52px;width:auto;text-align:left;font-size:15px}
 .bg_ground_4 a span{padding-left:0}
-.lijibofang{border-radius:0;background:url(../image/vplay-ico.png) no-repeat 50% #ff5f00;background-size:24px;background-position-x:calc(50% - 45px)}
+.lijibofang{border-radius:0;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/vplay-ico.png) no-repeat 50% #ff5f00;background-size:24px;background-position-x:calc(50% - 45px)}
 .bg_ground_2{position:relative}
-.jiao_left{top:5px;left:0;background:url(../image/yinhao-s.png) no-repeat 0 0;background-size:30px}
+.jiao_left{top:5px;left:0;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/yinhao-s.png) no-repeat 0 0;background-size:30px}
 .jiao_left,.jiao_right{position:absolute;width:30px;height:30px}
-.jiao_right{right:0;bottom:0;background:url(../image/yinhao-x.png) no-repeat 0 0;background-size:30px}
+.jiao_right{right:0;bottom:0;background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/yinhao-x.png) no-repeat 0 0;background-size:30px}
 .my_table{box-sizing:border-box;margin-bottom:0;border-top:0.5px solid #cccccc;border-right:0.5px solid #cccccc}
 .warning{position:relative;background-color:#fff;background-image:linear-gradient(-45deg,transparent,transparent .8em,#fafafa .9em,#fafafa 2.1em,transparent 0,transparent 2.9em,#fafafa 3.1em);background-size:3em 3em;-webkit-animation:warning-animation .75s linear infinite;-moz-animation:warning-animation .75s infinite linear;animation:warning-animation .75s linear infinite}
 @-webkit-keyframes warning-animation{0%{background-position:0 0}
@@ -132,8 +132,8 @@ to{background-position:3em 0}
 @keyframes warning-animation{0%{background-position:0 0}
 to{background-position:3em 0}
 }
-.bg_mvico{background:url(../image/bg_mvico.png) 100% no-repeat #fcfcfc;background-size:66px}
-.m_ico_pl{background:url(../image/pl-lbico.png) no-repeat 50% ;background-size:24px}
+.bg_mvico{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/bg_mvico.png) 100% no-repeat #fcfcfc;background-size:66px}
+.m_ico_pl{background:url(https://cdn.jsdelivr.net/gh/lu8pw/pic/5imvwap/image/pl-lbico.png) no-repeat 50% ;background-size:24px}
 .mtitle_ico:before{position:absolute;top:19px;left:40px;padding:3px;border:0.5px solid #cccccc;border-bottom:none;border-left:none;background: #fdfdfd;content:"";transform:rotate(45deg);}
 .mindex_bangulbox div:first-child{display:block}
 .mindex_bangulbox div:nth-child(2),.mindex_bangulbox div:nth-child(3),.mindex_bangulbox div:nth-child(4){display:none}
